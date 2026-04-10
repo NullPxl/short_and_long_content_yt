@@ -2,4 +2,4 @@
 
 Selina Lea, Peter Whiting, Aaron Zhang
 
-*Code created with the aid of Codex, GPT-4*
+*Code created with the aid of Codex, GPT-5.4*
