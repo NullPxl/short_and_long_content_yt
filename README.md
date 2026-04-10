@@ -1,1 +1,3 @@
-# short_and_long_content_yt
+# Collective Attention Dynamics in Short-Form Versus Long-Form Online Media
+
+Selina Lea, Peter Whiting, Aaron Zhang
